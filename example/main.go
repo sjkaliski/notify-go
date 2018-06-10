@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/sjkaliski/notify"
+	"github.com/sjkaliski/notify-go"
 )
 
 func main() {
